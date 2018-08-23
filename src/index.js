@@ -1,6 +1,4 @@
-console.log('hallo jho ')
-
-// import express from 'express'
+console.log('hallo')
 
 // const app = express()
 
